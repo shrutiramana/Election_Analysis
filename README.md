@@ -31,8 +31,13 @@ Following were the tasks that were performed during the process -
 Denver had the largest turnout with maximum number of votes being casted amounting to 272,892 votes i.e about 82.8%.
 
 Code Snippet showing the logic for the county wise votes and individual percentage, winning county and how we print the result in terminal and write that output to a txt file.
-    Votes_county_wise.png
+   
 
+
+            Votes_county_wise.png
+          
+
+          
 ### Summary at Candidate Level
 The Candidates were 
 -   Charles Casper Stockham
