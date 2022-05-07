@@ -32,10 +32,8 @@ Denver had the largest turnout with maximum number of votes being casted amounti
 
 Code Snippet showing the logic for the county wise votes and individual percentage, winning county and how we print the result in terminal and write that output to a txt file.
    
+<img width="1142" alt="Votes_county_wise" src="https://user-images.githubusercontent.com/98556229/167273684-5fe9c38a-f4eb-470f-9b4e-1c14bb26cd22.png">
 
-
-            Votes_county_wise.png
-          
 
           
 ### Summary at Candidate Level
@@ -53,11 +51,13 @@ The Candidates were
     Diana DeGette was the winner of the election she received 73.8% of the vote and 272,892 votes.
 
 Code Snippet showing the logic for the candidate wise votes,winning candidate votes and individual & winning percentage, winning candidate and how we print the result in terminal and write that output to a txt file.
-    candidate_county_wise.png
 
+
+<img width="1119" alt="Votes_candidate_wise" src="https://user-images.githubusercontent.com/98556229/167273711-8b9b471f-20a9-4c83-9fa1-975e8aaee145.png">
 
 The election results were saved in txt file as follows :
-election_analysis.png
+
+![Election_analysis](https://user-images.githubusercontent.com/98556229/167273700-1ca8389e-e0c9-4638-8ae6-5f11afefa22a.png)
 
 
 ## Election Audit Summary
